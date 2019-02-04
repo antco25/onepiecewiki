@@ -1,4 +1,4 @@
-package com.example.anthony.onepiecewiki.YouTubeAPI;
+package com.example.anthony.onepiecewiki.YouTubeAPI.SearchPOJO;
 
 import com.google.gson.annotations.SerializedName;
 
